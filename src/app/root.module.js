@@ -1,6 +1,6 @@
 angular
-  .module('root', [
-    'common',
-    'components',
-    'templates'
-  ]);
+	.module('root', [
+		'common',
+		'components',
+		'templates'
+	]);
